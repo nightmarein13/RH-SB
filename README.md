@@ -5,3 +5,5 @@ This is a small change to let your RH code use Mg II Stark widths calculated by 
 you can add some other lines like Si IV with a little effort.
 
 Tested on RH1.5D, should also work on 1D verson (rhf1d).
+
+Have fun!
